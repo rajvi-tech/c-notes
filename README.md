@@ -1,2 +1,2 @@
-# c-notes
+learn C language# c-notes
 C lang practicals
